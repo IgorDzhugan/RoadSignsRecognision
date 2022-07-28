@@ -1,2 +1,2 @@
-# RoadSignsRecognision
-Program for recognision road signs with wavelet processing
+# TrafficSignsRecognision
+Program for recognision of Russian traffic signs with wavelet processing
